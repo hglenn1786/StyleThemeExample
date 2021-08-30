@@ -8,10 +8,10 @@
 
     <!-- Color codes for pink mode -->
     <color name="colorPrimary2">#DF5886</color>
-    <color name="colorPrimaryDark2">#702B43</color>
+    <color name="colorPrimaryDark2">#000000</color>
     <color name="colorAccent2">#EEAEC4</color>
-    <color name="colorGrey">#666B6B</color>
-    <color name="colorTint">#77EEAEC4</color>
+    <color name="colorGrey">#9900FF</color>
+    <color name="colorTint">#77FF0058</color>
 
 
 
